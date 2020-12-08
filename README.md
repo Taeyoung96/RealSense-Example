@@ -19,7 +19,7 @@ I test this code with **Real Sense d435**.
   `depths_front/`, `depths_left/`, `depths_right/`, `imgs_front/`, `imgs_left`, `imgs_right`  
   - Output :  
     6 Folder for sequence Images (One camera has 2 outputs. One is for RGB, the other is for Depth) - Folders are  
-    3 TimeStamp.txt (Each real sense Camera)  
+    6 TimeStamp.txt (Each real sense Camera, both RGB and Depth)  
  
 - `rsGetIntrinsic.py`  
   - Input : Three real sense d435 cameras  
